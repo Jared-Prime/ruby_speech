@@ -1,13 +1,4 @@
-.DS_Store
-*.gem
-*.bundle
-*.jar
-Gemfile.lock
-pkg/*
-spec/reports
-.yardoc
-doc
-.*.swp
-vendor
+.gitignore
+coverage/
+*.swp
 tmp/
-coverage
